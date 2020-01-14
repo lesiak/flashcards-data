@@ -4,5 +4,18 @@
   declensionSingular:
     nom: sasa
     gen: sasa
+
 - word: fire
   answer: ого́нь
+
+- word: light
+  answer: свет
+
+- word: water
+  answer: вода́
+
+- word: river
+  answer: река́
+
+- word: sea
+  answer: мо́ре
